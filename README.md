@@ -5,4 +5,4 @@ A documentation for WSL (Windows Subsystem for Linux)
 Go to the Wiki tab.
 
 # License
-CC0-license, see [LICENSE](LICENSE)
+CC0-1.0 license, see [LICENSE](LICENSE)
